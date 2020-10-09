@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="226px" height="40px" viewBox="0 0 148 26" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Artboard</title>
+    <g id="Artboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <text id="NicoAlexCity" opacity="0.720052083" font-family="Papyrus" font-size="18" font-weight="normal" fill="#DEDDDD">
+            <tspan x="30.9555664" y="17">NicoAlexCity</tspan>
+        </text>
+        <path d="M18.2745224,5.40211943 C20.1435569,4.82908839 21.7100656,4.60894973 22.9749047,4.76105813 C24.1405906,4.90124245 25.0359888,5.36468795 25.6455617,6.17645932 C28.1892829,9.5639458 28.7598666,14.522485 27.4485508,21.021921 L27.4485508,21.021921 L20.8227002,11.9926826 L4.4022938,12.5009053 C10.088494,8.86386997 14.7113032,6.49457395 18.2745224,5.40211943 Z" id="Triangle" stroke="#979797" fill="#A30F0F" opacity="0.881835938"></path>
+    </g>
+</svg>
