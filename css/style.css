@@ -149,32 +149,23 @@ header {
   }
 
 .reqbox {
-    position: relative;
     padding: 10px 30px;
     background-color: black;
     color: white;
     opacity: 0.9;
     margin-top: 1em;
     display: inline-block;
-    box-sizing: inherit;
     height: 580px;
     width: 900px;
     margin:5px 20px;
-    list-style: none;
-    font-family: 'Kanit', sans-serif;
     color: #ffffff;
       }
 
 .requl  {
-    list-style: none;
-    font-family: 'Kanit', sans-serif;
-    color: #ffffff;
-    position: relative;
-    margin: 0 auto;
-    margin-top:1em;
-    margin-bottom: 1em;
-    padding: 0;
-    text-align: center;
+  font-family: 'Kanit', sans-serif;
+  margin-top:1em;
+  padding: 0;
+  text-align: center;
 }
 
 .requl h1 {
@@ -195,6 +186,23 @@ button#button {
   padding: 10px;
   margin-top:1em;
   margin-left: 40%;
+}
+
+.underbox {
+  background-color: black;
+  color: yellow;
+  opacity: 1;
+  margin-top: 1em;
+  display: inline-block;
+  height: 200px;
+  width: 900px;
+    }
+
+.underul  {
+  font-family: 'Kanit', sans-serif;
+  margin-top:1em;
+  padding: 0;
+  text-align: center;
 }
 
 .footer {
