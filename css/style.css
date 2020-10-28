@@ -156,8 +156,8 @@ header {
     margin-top: 1em;
     display: inline-block;
     box-sizing: inherit;
-    height: 580px;
-    width: 900px;
+    /*height: 580px;
+    width: 900px;*/
     margin:5px 20px;
     color: #ffffff;
       }
@@ -167,6 +167,7 @@ header {
   margin-top:1em;
   padding: 0;
   text-align: center;
+
 }
 
 .requl h1 {
@@ -197,8 +198,6 @@ button#button {
   margin-top: 1em;
   display: inline-block;
   box-sizing: inherit;
-  height: 200px;
-  width: 900px;
   margin:5px 20px;
     }
 
