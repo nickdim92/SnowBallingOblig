@@ -231,4 +231,9 @@ button#button {
   position: relative;
   width: 80%;
 }
+.projbox {
+  height: 100%;
+  width: 450px;
+}
+
 }
